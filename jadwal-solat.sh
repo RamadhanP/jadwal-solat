@@ -47,7 +47,7 @@ echo -e $green" _ ____ ___  _ _ _ ____ _       ____ _  _ ____ _    ____ ___  $ye
 echo -e $green" | |__| |  \ | | | |__| |       [__  |__| |  | |    |__|  |    $yellow| | "
 echo -e $green"_| |  | |__/ |_|_| |  | |___    ___] |  | |__| |___ |  |  |    $yellow| | "
 echo -e $yellow"                                                             (TTTTT) "
-echo -e $green"                                      Made with $red<3$green by 4WSec"
+echo -e $green"                                      author $red<3$green Muhammad Fazriansyah"
 echo ""
 }
 
